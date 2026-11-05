@@ -2,3 +2,4 @@
 ## A repo for Python beginners:
 ` List your names here `
 1. Mukhtar Khan
+2. Akshit Nepal 
